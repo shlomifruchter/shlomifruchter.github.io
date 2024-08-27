@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Sr. Staff Research Engineer, Google Deepmind
+subtitle: Sr. Staff Research Engineer, Google DeepMind
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Currently working on large-scale generative models at Google Deepmind.
+Currently working on large-scale generative models at Google DeepMind.
 
 I was fortunate to lead and contribute to multiple projects that were featured on Google I/O keynotes:
 1. [Google Veo](https://deepmind.google/technologies/veo/) and [Imagen 3](https://deepmind.google/technologies/imagen-3/): generative text-to-video and text-to-image models.
