@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Sr. Staff Research Engineer, Google DeepMind
+subtitle: Research Director, Google DeepMind
 
 profile:
   align: right
